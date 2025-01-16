@@ -1,0 +1,24 @@
+4;ISA CARITA BRAND - COMERCIO DE ROUPAS LTDA;C:\Troca de arquivos Unico\TI\Gabriel\NF-e\4\Entrada\2024\Maio
+31;GC MANUTENCAO DE VEICULOS EIRELI;C:\Troca de arquivos Unico\TI\Gabriel\NF-e\31\Entrada\2024\Maio
+81;JYR COMERCIO DE ALIMENTOS LTDA;C:\Troca de arquivos Unico\TI\Gabriel\NF-e\81\Entrada\2024\Maio
+92;JULIA RIOS PELAES;C:\Troca de arquivos Unico\TI\Gabriel\NF-e\92\Entrada\2024\Maio
+95;AMPLIAZI COBERTURAS LTDA;C:\Troca de arquivos Unico\TI\Gabriel\NF-e\95\Entrada\2024\Maio
+121;MERCADO E ACOUGUE RTN LTDA;C:\Troca de arquivos Unico\TI\Gabriel\NF-e\121\Entrada\2024\Maio
+152;MERCADO DF SANTO ANTONIO LTDA;C:\Troca de arquivos Unico\TI\Gabriel\NF-e\152\Entrada\2024\Maio
+169;TERRA SANTA ALIMENTOS LTDA;C:\Troca de arquivos Unico\TI\Gabriel\NF-e\169\Entrada\2024\Maio
+182;W.G.L. AR CONDICIONADO AUTOMOTORES LTDA;C:\Troca de arquivos Unico\TI\Gabriel\NF-e\182\Entrada\2024\Maio
+189;CONFESPAN COMERCIO E DISTRIBUICAO LTDA;C:\Troca de arquivos Unico\TI\Gabriel\NF-e\189\Entrada\2024\Maio
+199;LIBERO QUIMICOS E INGREDIENTES LTDA;C:\Troca de arquivos Unico\TI\Gabriel\NF-e\199\Entrada\2024\Maio
+222;CIME INSTALADORA LTDA;C:\Troca de arquivos Unico\TI\Gabriel\NF-e\222\Entrada\2024\Maio
+254;LA BICI COMERCIO IMPORTACAO E EXPORTACAO DE BICICLETAS LTDA;C:\Troca de arquivos Unico\TI\Gabriel\NF-e\254\Saida\2024\Maio
+270;MINIMERCADO ALVAG LTDA;C:\Troca de arquivos Unico\TI\Gabriel\NF-e\270\Entrada\2024\Maio
+297;CLOUD TARGET INFORMATICA S.A;C:\Troca de arquivos Unico\TI\Gabriel\NF-e\297\Entrada\2024\Maio
+319;STAGNUM CONSTRUCAO E COMERCIO EIRELI;C:\Troca de arquivos Unico\TI\Gabriel\NF-e\319\Entrada\2024\Maio
+348;SCPH - SLAVIERO EMPREENDIMENTOS HOTELEIROS LTDA;C:\Troca de arquivos Unico\TI\Gabriel\NF-e\348\Entrada\2024\Maio
+353;SPOKES COMERCIO, IMPORTACAO E EXPORTACAO DE BICICLETAS LTDA;C:\Troca de arquivos Unico\TI\Gabriel\NF-e\353\Saida\2024\Maio
+361;NA FERNANDES OPTICA;C:\Troca de arquivos Unico\TI\Gabriel\NF-e\361\Entrada\2024\Maio
+363;TORRES COMERCIO DE CALCADOS - EIRELI;C:\Troca de arquivos Unico\TI\Gabriel\NF-e\363\Entrada\2024\Maio
+368;NUTRIPRO COMERCIO VAREJISTA DE ALIMENTOS LTDA;C:\Troca de arquivos Unico\TI\Gabriel\NF-e\368\Entrada\2024\Maio
+376;SLCA - K. MARTINS EMPREENDIMENTOS E INVESTIMENTOS LTDA;C:\Troca de arquivos Unico\TI\Gabriel\NF-e\376\Entrada\2024\Maio
+377;SCBC - BRUT HOTEL LTDA;C:\Troca de arquivos Unico\TI\Gabriel\NF-e\377\Entrada\2024\Maio
+380;H. C. Martins;C:\Troca de arquivos Unico\TI\Gabriel\NF-e\380\Entrada\2024\Maio

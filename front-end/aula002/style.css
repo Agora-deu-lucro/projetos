@@ -1,0 +1,21 @@
+body{
+    background-image: linear-gradient(20deg, blue, red, yellow); /* Codigo para adicionar degrader na pagina */
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;  
+
+    /* apartir dessa linha para baixo e o codigo para adc uma imagen no fundo do site */
+
+    background-image: url('html.png'); /* codigo para adicionar a foto de fundo no site. */
+    background-size: cover; /* Ajusta a imagem para cobrir toda a área visível */
+    background-position: center; /* Centraliza a imagem */
+    background-repeat: no-repeat; /* Evita que a imagem se repita */
+
+    /* ate aqui. */
+}
+
+h1{
+    color: brown;
+}
+
+h2{
+    color: burlywood;
+}

@@ -1,0 +1,18 @@
+body{
+    background-image: linear-gradient(to right, pink, orange, purple);
+}
+
+main{
+    width: 600px;
+    padding: 10px;
+    margin: auto;
+}
+
+form{
+    background-color: aliceblue;
+    width: 600px;
+    padding: 10px;
+    margin: auto;
+    border-radius: 10px;
+    box-shadow: 5px 5px 15px rgb(0, 47, 0);
+}

@@ -1,0 +1,111 @@
+/* Reset básico para remover margens e padding padrão */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #ADD8E6;
+}
+
+header {
+    background-color: #4169E1;
+    padding: 10px;
+    text-align: center;
+}
+
+nav {
+    background-color: #4169E1;
+    padding: 10px;
+    text-align: center;
+}
+
+nav a {
+    color: #fff;
+    text-decoration: none;
+    margin: 0 15px;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+nav > a:hover {
+    color: rgb(2, 2, 114);
+    background-color: #fff;
+    transition-duration: 1s;
+}
+
+main {
+    background-color:#003366;
+    padding: 20px;
+    text-align: center; /* Centraliza o conteúdo dentro do main */
+    max-width: 800px;
+    min-width: 320px;
+    color: white;
+    margin: auto;
+}
+
+img {
+    max-width: 100%; /* Faz a imagem se ajustar à largura do container */
+    height: auto;    /* Mantém a proporção da imagem */
+    width: 50%;      /* Define a largura da imagem como 50% da largura do container, ajuste conforme necessário */
+    display: block;  /* Remove o espaço abaixo da imagem */
+    margin: 0 auto;  /* Centraliza a imagem horizontalmente */
+    border-radius: 25px;
+}
+
+h1#especial {
+    text-align: center;
+    color: black;
+}
+
+h1, h2 {
+    margin-bottom: 20px;
+    text-align: left;
+}
+
+.degrade {
+    background: linear-gradient(to right, #ADD8E6, transparent);
+    color: black;
+    padding: 10px;
+}
+
+.quadrado {
+    width: 100px;
+    height: 100px;
+    background-color: #ccc;
+    display: inline-block;
+    margin: 10px;
+}
+
+div#q1 {
+    background-image: url('python1.png');
+    background-position: center center;
+    background-size: cover;
+    border-radius: 25px;
+}
+
+div#q2 {
+    background-image: url('html.png');
+    background-size: cover;
+    border-radius: 25px;
+}
+
+div#q3 {
+    background-image: url('css.png');
+    background-size: cover;
+    border-radius: 25px;
+}
+
+div#q4 {
+    background-image: url('sql.png');
+    background-position: center center;
+    background-size: cover;
+    border-radius: 25px;
+}

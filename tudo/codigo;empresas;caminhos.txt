@@ -1,0 +1,255 @@
+codigo;empresas;caminhos
+4;ISA CARITA BRAND - COMERCIO DE ROUPAS LTDA;18.711.519/0001-43;C:\Troca de arquivos Unico\TI\Gabriel
+31;GC MANUTENCAO DE VEICULOS EIRELI;C:\Troca de arquivos Unico\TI\Gabriel
+81;JYR COMERCIO DE ALIMENTOS LTDA;C:\Troca de arquivos Unico\TI\Gabriel
+92;JULIA RIOS PELAES;C:\Troca de arquivos Unico\TI\Gabriel
+95;AMPLIAZI COBERTURAS LTDA;C:\Troca de arquivos Unico\TI\Gabriel
+121;MERCADO E ACOUGUE RTN LTDA;C:\Troca de arquivos Unico\TI\Gabriel
+152;MERCADO DF SANTO ANTONIO LTDA;C:\Troca de arquivos Unico\TI\Gabriel
+157;CC TREINAMENTO E PRODUCAO DE FILMES E VIDEOS DE ANIMAIS LTDA;C:\Troca de arquivos Unico\TI\Gabriel
+169;TERRA SANTA ALIMENTOS LTDA;C:\Troca de arquivos Unico\TI\Gabriel
+182;W.G.L. AR CONDICIONADO AUTOMOTORES LTDA;C:\Troca de arquivos Unico\TI\Gabriel
+189;CONFESPAN COMERCIO E DISTRIBUICAO LTDA;C:\Troca de arquivos Unico\TI\Gabriel
+199;LIBERO QUIMICOS E INGREDIENTES LTDA;C:\Troca de arquivos Unico\TI\Gabriel
+222;CIME INSTALADORA LTDA;C:\Troca de arquivos Unico\TI\Gabriel
+254;LA BICI COMERCIO IMPORTACAO E EXPORTACAO DE BICICLETAS LTDA;C:\Troca de arquivos Unico\TI\Gabriel
+270;MINIMERCADO ALVAG LTDA;C:\Troca de arquivos Unico\TI\Gabriel
+297;CLOUD TARGET INFORMATICA S.A;C:\Troca de arquivos Unico\TI\Gabriel
+319;STAGNUM CONSTRUCAO E COMERCIO EIRELI;C:\Troca de arquivos Unico\TI\Gabriel
+348;SCPH - SLAVIERO EMPREENDIMENTOS HOTELEIROS LTDA;C:\Troca de arquivos Unico\TI\Gabriel
+353;SPOKES COMERCIO, IMPORTACAO E EXPORTACAO DE BICICLETAS LTDA;C:\Troca de arquivos Unico\TI\Gabriel
+361;NA FERNANDES OPTICA;C:\Troca de arquivos Unico\TI\Gabriel
+363;TORRES COMERCIO DE CALCADOS - EIRELI;C:\Troca de arquivos Unico\TI\Gabriel\NF-e\363\Entrada\2024\Maio
+368;NUTRIPRO COMERCIO VAREJISTA DE ALIMENTOS LTDA;C:\Troca de arquivos Unico\TI\Gabriel
+376;SLCA - K. MARTINS EMPREENDIMENTOS E INVESTIMENTOS LTDA;C:\Troca de arquivos Unico\TI\Gabriel
+377;SCBC - BRUT HOTEL LTDA;C:\Troca de arquivos Unico\TI\Gabriel
+380;H. C. Martins;C:\Troca de arquivos Unico\TI\Gabriel
+391;SECA - HOTEL ESSENTIAL AEROPORTO AFONSO PENA LTDA;C:\Troca de arquivos Unico\TI\Gabriel
+401;PAULA TORRES COMERCIO DE CALCADOS LTDA;C:\Troca de arquivos Unico\TI\Gabriel
+405;SEBL - DIOGO GUARIENTI DE OLIVEIRA;C:\Troca de arquivos Unico\TI\Gabriel
+406;HOTEL REX S A;C:\Troca de arquivos Unico\TI\Gabriel
+410;JCG CAFE E RESTAURANTE LTDA;C:\Troca de arquivos Unico\TI\Gabriel
+423;HOTEL SLIM GUARAPUAVA LTDA;C:\Troca de arquivos Unico\TI\Gabriel
+426;WINE DOMAIN COMERCIO DE BEBIDAS EIRELI;C:\Troca de arquivos Unico\TI\Gabriel
+431;A&M COMERCIO OPTICO EIRELI;C:\Troca de arquivos Unico\TI\Gabriel
+435;JARDINS COMERCIO DE VINHOS LTDA;C:\Troca de arquivos Unico\TI\Gabriel
+440;LMA CAFE CHOCOLATES FINOS EIRELI;C:\Troca de arquivos Unico\TI\Gabriel
+452;SLCA - A. SERVICOS ALIMENTICIOS EIRELI;C:\Troca de arquivos Unico\TI\Gabriel
+454;HOTEL SLAVIERO ESSENTIAL CHAPECO LTDA;C:\Troca de arquivos Unico\TI\Gabriel
+459;HOTEL SLIM BENTO GONCALVES LTDA;C:\Troca de arquivos Unico\TI\Gabriel
+466;VINERIA SAO PAULO COMERCIO DE BEBIDAS E ALIMENTOS EIRELI;C:\Troca de arquivos Unico\TI\Gabriel
+467;MINI MERCADO AGUIA PENHA LTDA;C:\Troca de arquivos Unico\TI\Gabriel
+468;J D L ADEGA EIRELI;C:\Troca de arquivos Unico\TI\Gabriel
+494;LDF CHOCOLATES FINOS LTDA;C:\Troca de arquivos Unico\TI\Gabriel
+506;NA FERNANDES OPTICA;C:\Troca de arquivos Unico\TI\Gabriel
+508;A&M COMERCIO OPTICO EIRELI;C:\Troca de arquivos Unico\TI\Gabriel\NF-e\508\Saida\2024\Maio
+513;SLAVIERO EMPREENDIMENTOS HOTELEIROS LTDA;C:\Troca de arquivos Unico\TI\Gabriel
+514;SBNF - SLAVIERO EMPREENDIMENTOS HOTELEIROS LTDA;C:\Troca de arquivos Unico\TI\Gabriel
+515;Slaviero Empreendimentos Hoteleiros Ltda;C:\Troca de arquivos Unico\TI\Gabriel
+519;Slaviero Empreendimentos Hoteleiros Ltda;C:\Troca de arquivos Unico\TI\Gabriel
+520;SLSC - SLAVIERO EMPREENDIMENTOS HOTELEIROS LTDA;C:\Troca de arquivos Unico\TI\Gabriel
+523;Slaviero Empreendimentos Hoteleiros Ltda;C:\Troca de arquivos Unico\TI\Gabriel
+524;Slaviero Empreendimentos Hoteleiros Ltda;C:\Troca de arquivos Unico\TI\Gabriel
+526;Slaviero Empreendimentos Hoteleiros Ltda;C:\Troca de arquivos Unico\TI\Gabriel
+527;SCRF - SLAVIERO EMPREENDIMENTOS HOTELEIROS LTDA;C:\Troca de arquivos Unico\TI\Gabriel
+533;SCPH - SLAVIERO SERVICOS DE RESTAURANTE E HOTELARIA LTDA;C:\Troca de arquivos Unico\TI\Gabriel
+549;PAULA TORRES COMERCIO DE CALCADOS LTDA;C:\Troca de arquivos Unico\TI\Gabriel\NF-e\549\Saida\2024\Maio
+550;LIBERO QUIMICOS E INGREDIENTES;C:\Troca de arquivos Unico\TI\Gabriel\NF-e\550\Saida\2024\Maio
+566;TORRES COMERCIO DE CALCADOS - EIRELI;C:\Troca de arquivos Unico\TI\Gabriel\NF-e\566\Saida\2024\Maio
+567;Torres Comercio de Calcados - Eireli;C:\Troca de arquivos Unico\TI\Gabriel\NF-e\567\Saida\2024\Maio
+568;TORRES COMERCIO DE CALCADOS - EIRELI;C:\Troca de arquivos Unico\TI\Gabriel\NF-e\568\Saida\2024\Maio
+569;TORRES COMERCIO DE CALCADOS - EIRELI;C:\Troca de arquivos Unico\TI\Gabriel\NF-e\569\Saida\2024\Maio
+570;TORRES COMERCIO DE CALCADOS - EIRELI;C:\Troca de arquivos Unico\TI\Gabriel\NF-e\570\Saida\2024\Maio
+571;TORRES COMERCIO DE CALCADOS - EIRELI;C:\Troca de arquivos Unico\TI\Gabriel\NF-e\571\Saida\2024\Maio
+574;CONFESPAN COMERCIO E DISTRIBUICAO LTDA;C:\Troca de arquivos Unico\TI\Gabriel\NF-e\574\Saida\2024\Maio
+610;BT PECAS PARA CAMINHOES LTDA;C:\Troca de arquivos Unico\TI\Gabriel\NF-e\610\Saida\2024\Maio
+611;BIO-BEAUTY CENTRO ESTETICO AVANCADO LTDA;C:\Troca de arquivos Unico\TI\Gabriel
+614;IAS BELLINHA ARTIGOS DE FESTAS LTDA;C:\Troca de arquivos Unico\TI\Gabriel\NF-e\614\Saida\2024\Maio
+622;KUNGFU COFFEE LTDA;C:\Troca de arquivos Unico\TI\Gabriel\NF-e\622\Saida\2024\Maio
+637;VITORIA I CONSTRUCAO CIVIL LTDA;C:\Troca de arquivos Unico\TI\Gabriel
+643;AROMA DE CAFE E CHOCOLATES LTDA;C:\Troca de arquivos Unico\TI\Gabriel\NF-e\643\Saida\2024\Maio
+646;SELF - HOTEL LONDRINA FLAT LTDA;C:\Troca de arquivos Unico\TI\Gabriel
+658;CANTINHO BELA CASA LTDA;C:\Troca de arquivos Unico\TI\Gabriel\NF-e\658\Saida\2024\Maio
+661;RENOVE MUDANCAS E GUARDA MOVEIS LTDA;C:\Troca de arquivos Unico\TI\Gabriel
+662;R. D. MANUTENCAO DE BOMBAS INJETORAS LTDA;C:\Troca de arquivos Unico\TI\Gabriel\NF-e\662\Saida\2024\Maio
+671;LL CHOCOLATES FINOS LTDA;C:\Troca de arquivos Unico\TI\Gabriel
+677;TORRES COMERCIO DE CALCADOS – EIRELI;C:\Troca de arquivos Unico\TI\Gabriel\NF-e\677\Saida\2024\Maio
+684;T&M SALGADOS E CIA LTDA;C:\Troca de arquivos Unico\TI\Gabriel
+695;CKD COMERCIO IMPORTACAO E EXPORTACAO EIRELI;C:\Troca de arquivos Unico\TI\Gabriel
+697;SEIKO COMERCIO E DISTRIBUICAO LTDA;C:\Troca de arquivos Unico\TI\Gabriel
+701;MALL CAFES CHOCOLATES LTDA;C:\Troca de arquivos Unico\TI\Gabriel
+712;FIORI PASTIFICIO ALIMENTOS LTDA;C:\Troca de arquivos Unico\TI\Gabriel
+732;SDM VINHOS SBC LTDA;C:\Troca de arquivos Unico\TI\Gabriel
+733;MEGA COMERCIAL LTDA;C:\Troca de arquivos Unico\TI\Gabriel\NF-e\733\Saida\2024\Maio
+736;AESTHETIC PLANET COMERCIAL LTDA;C:\Troca de arquivos Unico\TI\Gabriel\NF-e\736\Saida\2024\Maio
+738;HOTEL DOWNTOWN SAO PAULO LTDA;C:\Troca de arquivos Unico\TI\Gabriel
+739;PAULA TORRES COMERCIO DE CALCADOS LTDA;C:\Troca de arquivos Unico\TI\Gabriel\NF-e\739\Saida\2024\Maio
+741;R.Vanijr Miranda Comercio de Salgados Ltda;C:\Troca de arquivos Unico\TI\Gabriel
+746;VCL SUPERMERCADO LTDA;C:\Troca de arquivos Unico\TI\Gabriel
+754;MCL SUPERMERCADO LTDA;C:\Troca de arquivos Unico\TI\Gabriel
+757;ESSENTIAL SERVICOS LTDA;C:\Troca de arquivos Unico\TI\Gabriel
+759;TORRES COMERCIO DE CALCADOS - EIRELI;C:\Troca de arquivos Unico\TI\Gabriel\NF-e\759\Saida\2024\Maio
+762;RCL SUPERMERCADO LTDA;C:\Troca de arquivos Unico\TI\Gabriel\NF-e\762\Saida\2024\Maio
+763;TORRES COMERCIO DE CALCADOS - EIRELI;C:\Troca de arquivos Unico\TI\Gabriel\NF-e\763\Saida\2024\Maio
+773;FERR SANTOS SUPERMERCADO LTDA;C:\Troca de arquivos Unico\TI\Gabriel
+775;KCMA SUPERMERCADO LTDA;C:\Troca de arquivos Unico\TI\Gabriel\NF-e\775\Saida\2024\Maio
+781;ADRIANA REGINA RODRIGUES;C:\Troca de arquivos Unico\TI\Gabriel
+792;EVER SEGURANCA E TECNOLOGIA SOCIEDADE UNIPESSOAL LTDA;C:\Troca de arquivos Unico\TI\Gabriel\NF-e\792\Saida\2024\Maio
+802;ACL CHOCOLATE LTDA;C:\Troca de arquivos Unico\TI\Gabriel
+803;LMD BOMBOM LTDA;C:\Troca de arquivos Unico\TI\Gabriel
+812;DIA FMG SUPERMERCADO LTDA;C:\Troca de arquivos Unico\TI\Gabriel\NF-e\812\Saida\2024\Maio
+815;LCL SUPERMERCADO LTDA;C:\Troca de arquivos Unico\TI\Gabriel
+819;EC BEBIDAS LTDA;C:\Troca de arquivos Unico\TI\Gabriel
+820;ADEGA LUCARO LTDA;C:\Troca de arquivos Unico\TI\Gabriel
+821;MERCADO CALU LTDA;C:\Troca de arquivos Unico\TI\Gabriel
+824;LAP SUPERMERCADO LTDA;C:\Troca de arquivos Unico\TI\Gabriel\NF-e\824\Saida\2024\Maio
+830;AGORA DEU LUCRO EDUCACIONAL LTDA;C:\Troca de arquivos Unico\TI\Gabriel
+848;LEILA RODRIGUES BELONI CARAPIA;C:\Troca de arquivos Unico\TI\Gabriel\NF-e\848\Saida\2024\Maio
+870;GELMAQ COMERCIO DE PECAS E SERVICOS LTDA;C:\Troca de arquivos Unico\TI\Gabriel\NF-e\870\Saida\2024\Maio
+880;BEE BOOZE BRAZIL LTDA;C:\Troca de arquivos Unico\TI\Gabriel\NF-e\880\Saida\2024\Maio
+893;M3 COMERCIO DE PRODUTOS LTDA;C:\Troca de arquivos Unico\TI\Gabriel\NF-e\893\Saida\2024\Maio
+894;VINETO COMERCIO DE UTILIDADES DOMESTICAS LTDA;C:\Troca de arquivos Unico\TI\Gabriel\NF-e\894\Saida\2024\Maio
+898;WORLD GARDEN LTDA;C:\Troca de arquivos Unico\TI\Gabriel\NF-e\898\Saida\2024\Maio
+914;MATOSO COMERCIO LTDA;C:\Troca de arquivos Unico\TI\Gabriel\NF-e\914\Saida\2024\Maio
+928;ARTE SEDUÇÃO COMERCIO E DISTRIBUIDORA DE COSMETICOS LTDA;C:\Troca de arquivos Unico\TI\Gabriel\NF-e\928\Saida\2024\Maio
+946;DTE INDUSTRIA E COMERCIO DE BEBIDAS LTDA;C:\Troca de arquivos Unico\TI\Gabriel\NF-e\946\Saida\2024\Maio
+960;BALASSA & BONFATTI MAGAZINE LTDA;C:\Troca de arquivos Unico\TI\Gabriel\NF-e\960\Saida\2024\Maio
+962;BALASSA & BONFATTI MAGAZINE LTDA;C:\Troca de arquivos Unico\TI\Gabriel\NF-e\962\Saida\2024\Maio
+966;BALASSA & BONFATTI MAGAZINE LTDA;C:\Troca de arquivos Unico\TI\Gabriel\NF-e\966\Saida\2024\Maio
+970;BABO COMERCIO E INDUSTRIA, SERVIÇOS E PARTICIPAÇÕES LTDA;C:\Troca de arquivos Unico\TI\Gabriel\NF-e\970\Saida\2024\Maio
+975;HOTEL ARPOAR JOAO PESSOA LTDA;C:\Troca de arquivos Unico\TI\Gabriel
+988;LR SEGURANCA ELETRONICA LTDA;C:\Troca de arquivos Unico\TI\Gabriel\NF-e\988\Saida\2024\Maio
+992;SOLVE MANUTENCAO E MONTAGEM LTDA;C:\Troca de arquivos Unico\TI\Gabriel\NF-e\992\Saida\2024\Maio
+1000;AUTOMOTRIZ SERVICOS MECANICOS E MAANAIM AUTOPECAS LTDA;C:\Troca de arquivos Unico\TI\Gabriel
+1005;ALS BAUEN ENGENHARIA LTDA;C:\Troca de arquivos Unico\TI\Gabriel
+1007;COMIDINHAS DA FLOR LTDA;C:\Troca de arquivos Unico\TI\Gabriel
+1010;Andre dos Santos Silva Consultoria Empresarial Ltda;C:\Troca de arquivos Unico\TI\Gabriel
+1021;Aroma de Cafe e Chocolates Ltda;C:\Troca de arquivos Unico\TI\Gabriel
+1024;SMART MARKET - MERCADO AUTONOMO LTDA;C:\Troca de arquivos Unico\TI\Gabriel
+1033;BR AUTO IMPORT LTDA;C:\Troca de arquivos Unico\TI\Gabriel
+1035;SUCAO FMG LIMEIRA LTDA;C:\Troca de arquivos Unico\TI\Gabriel
+1041;HUMMER COMERCIO E SERVICOS DE TELECOMUNICACOES LTDA.;C:\Troca de arquivos Unico\TI\Gabriel
+1049;DASP COMERCIO E SERVICOS TECNOLOGICOS LTDA;C:\Troca de arquivos Unico\TI\Gabriel\NF-e\1049\Saida\2024\Maio
+1051;COLINA FMG SUPERMERCADO LTDA;C:\Troca de arquivos Unico\TI\Gabriel
+1052;VERAO FRUT COMERCIAL LTDA - EPP;C:\Troca de arquivos Unico\TI\Gabriel
+1057;TUDO & MAIS UM POUCO DISTRIBUIDORA E SERVICOS LTDA;C:\Troca de arquivos Unico\TI\Gabriel
+1058;OLD MAN DISTRIBUIDORA LTDA;C:\Troca de arquivos Unico\TI\Gabriel
+1063;KMG CHOCOLATES LTDA;C:\Troca de arquivos Unico\TI\Gabriel
+1064;KMG CHOCOLATES LTDA;C:\Troca de arquivos Unico\TI\Gabriel
+1065;ACADEMIA DO DIAGNOSTICO AUTOMOTIVO TREINAMENTOS & EQUIPAMENTOS LTDA;C:\Troca de arquivos Unico\TI\Gabriel\NF-e\1065\Saida\2024\Maio
+1066;VIDA MOVIMENTO FASHION RETAIL LTDA;C:\Troca de arquivos Unico\TI\Gabriel
+1075;BAU DOS DOCES E BISCOITOS LTDA;C:\Troca de arquivos Unico\TI\Gabriel\NF-e\1075\Saida\2024\Maio
+10003;SUPER COMPRA DO DIA COMERCIO DIGITAL LTDA;C:\Troca de arquivos Unico\TI\Gabriel\NF-e\10003\Saida\2024\Maio
+10011;REDE NAILS - SERVICOS E COMERCIO DE COSMETICOS LTDA;C:\Troca de arquivos Unico\TI\Gabriel\NF-e\10011\Saida\2024\Maio
+10014;MR COMERCIO VAREJISTA DE BRINQUEDOS LTDA;C:\Troca de arquivos Unico\TI\Gabriel\NF-e\10014\Saida\2024\Maio
+10015;KIBUNITINHO - LEMBRANCINHAS E PERSONALIZADOS LTDA.;C:\Troca de arquivos Unico\TI\Gabriel\NF-e\10015\Saida\2024\Maio
+10016;ALPHA CAMP COMERCIO ATACADISTA E VAREJISTA LTDA;C:\Troca de arquivos Unico\TI\Gabriel
+10017;CENTRO OPTICO ESPECIALIZADO LTDA;C:\Troca de arquivos Unico\TI\Gabriel
+10018;CENTRO OPTICO ESPECIALIZADO LTDA;C:\Troca de arquivos Unico\TI\Gabriel
+10019;FH OPTICAL - COMERCIO DE ARTIGOS DE OPTICA LTDA;C:\Troca de arquivos Unico\TI\Gabriel
+10028;Rico Comercio de Equipamentos de Informatica Ltda;C:\Troca de arquivos Unico\TI\Gabriel\NF-e\10028\Saida\2024\Maio
+10034;Felipe Gomes Corti Santo;C:\Troca de arquivos Unico\TI\Gabriel\NF-e\10034\Saida\2024\Maio
+10035;Romao Comercio de Pecas e Acessorios Ltda;C:\Troca de arquivos Unico\TI\Gabriel\NF-e\10035\Saida\2024\Maio
+10049;Rodrigo Santos Oliveira;C:\Troca de arquivos Unico\TI\Gabriel\NF-e\10049\Saida\2024\Maio
+10051;Daniela de S. S. Neto;C:\Troca de arquivos Unico\TI\Gabriel
+10054;Fontoura Store Ltda;C:\Troca de arquivos Unico\TI\Gabriel\NF-e\10054\Saida\2024\Maio
+10057;Cristiano Ribeiro de Souza 28911790800;C:\Troca de arquivos Unico\TI\Gabriel\NF-e\10057\Saida\2024\Maio
+10058;Multi Supri Comercial e Importadora Ltda;C:\Troca de arquivos Unico\TI\Gabriel
+10069;P N de C dos Santos;C:\Troca de arquivos Unico\TI\Gabriel\NF-e\10069\Saida\2024\Maio
+10075;Thiago Olivatti;C:\Troca de arquivos Unico\TI\Gabriel\NF-e\10075\Saida\2024\Maio
+10082;T. Zanelli Nascimento Comercio;C:\Troca de arquivos Unico\TI\Gabriel
+10090;R.D.R. Confeccao e Comercio de Vestuario Ltda;C:\Troca de arquivos Unico\TI\Gabriel\NF-e\10090\Saida\2024\Maio
+10106;Saluz Comercio Online Ltda;C:\Troca de arquivos Unico\TI\Gabriel\NF-e\10106\Saida\2024\Maio
+10138;M. A. Vendas Digitais Ltda;C:\Troca de arquivos Unico\TI\Gabriel
+10139;William da Silva Guimaraes;C:\Troca de arquivos Unico\TI\Gabriel
+10149;Muzie Loja Virtual Ltda;C:\Troca de arquivos Unico\TI\Gabriel
+10155;Daiana Freire dos Santos Pereira;C:\Troca de arquivos Unico\TI\Gabriel
+10171;Dkola Adesivos Acessorios & Utilidades Ltda;C:\Troca de arquivos Unico\TI\Gabriel
+10191;Thais Aparecida Reis Serio;C:\Troca de arquivos Unico\TI\Gabriel
+10198;Tyngs Variedades Ltda;C:\Troca de arquivos Unico\TI\Gabriel
+10210;H. Meiry M. Santos G;C:\Troca de arquivos Unico\TI\Gabriel\NF-e\10210\Saida\2024\Maio
+10211;Exponex Comercio Varejista Ltda;C:\Troca de arquivos Unico\TI\Gabriel
+10804;URSO COMERCIO DE CALCADOS LTDA;C:\Troca de arquivos Unico\TI\Gabriel
+10805;DGH COMERCIO DE COSMETICOS LTDA;C:\Troca de arquivos Unico\TI\Gabriel\NF-e\10805\Saida\2024\Maio
+10806;DGH COMERCIO DE COSMETICOS LTDA;C:\Troca de arquivos Unico\TI\Gabriel\NF-e\10806\Saida\2024\Maio
+10807;SAMURAI DISTRIBUIDORA DE AUTO PECAS E ACESSORIOS LTDA.;C:\Troca de arquivos Unico\TI\Gabriel\NF-e\10807\Saida\2024\Maio
+10808;M3 STORE COMERCIO DE PRODUTOS LTDA;C:\Troca de arquivos Unico\TI\Gabriel\NF-e\10808\Saida\2024\Maio
+10810;ISLA COMERCIO DE COSMETICOS LTDA;C:\Troca de arquivos Unico\TI\Gabriel\NF-e\10810\Saida\2024\Maio
+10811;G9 SOLUCOES LTDA;C:\Troca de arquivos Unico\TI\Gabriel
+10812;G9 SOLUCOES LTDA;C:\Troca de arquivos Unico\TI\Gabriel\NF-e\10812\Saida\2024\Maio
+10813;COMERCIO DE COSMETICOS E PERFUMES DE LUXO IMPORTADOS DAILU LTDA;C:\Troca de arquivos Unico\TI\Gabriel\NF-e\10813\Saida\2024\Maio
+10814;COSMETICOS E PRODUTOS COMERCIO DE LUXO CEVELO LTDA;C:\Troca de arquivos Unico\TI\Gabriel\NF-e\10814\Saida\2024\Maio
+10820;NEW DIGIT COMRCIO DE INFORMTICA EIRELI;C:\Troca de arquivos Unico\TI\Gabriel\NF-e\10820\Saida\2024\Maio
+10821;MOVEIS MINIMAL LTDA;C:\Troca de arquivos Unico\TI\Gabriel\NF-e\10821\Saida\2024\Maio
+10822;MARCO ANTONIO REIS LIMA MARCENARIA;C:\Troca de arquivos Unico\TI\Gabriel\NF-e\10822\Saida\2024\Maio
+10824;LUA DE CRISTAL LIVRARIA E PAPELARIA LTDA;C:\Troca de arquivos Unico\TI\Gabriel\NF-e\10824\Saida\2024\Maio
+10826;LACERDA LIVRARIA E PAPELARIA LTDA;C:\Troca de arquivos Unico\TI\Gabriel\NF-e\10826\Saida\2024\Maio
+10827;STIPE COMERCIO VAREJISTA LTDA;C:\Troca de arquivos Unico\TI\Gabriel
+10828;M BIG COMERCIO VAREJISTA E SERVICOS LTDA;C:\Troca de arquivos Unico\TI\Gabriel\NF-e\10828\Saida\2024\Maio
+10829;ETC & TAL COMERCIO VAREJISTA LTDA;C:\Troca de arquivos Unico\TI\Gabriel\NF-e\10829\Saida\2024\Maio
+10830;VIFER COMERCIO DE FERRO E ACO LTDA;C:\Troca de arquivos Unico\TI\Gabriel\NF-e\10830\Saida\2024\Maio
+10831;NICE FOODS LTDA;C:\Troca de arquivos Unico\TI\Gabriel
+10832;NICE FOODS LTDA;C:\Troca de arquivos Unico\TI\Gabriel\NF-e\10832\Saida\2024\Maio
+10833;NICE FOODS ECOMMERCE LTDA;C:\Troca de arquivos Unico\TI\Gabriel\NF-e\10833\Saida\2024\Maio
+10834;NICE FOODS ECOMMERCE LTDA;C:\Troca de arquivos Unico\TI\Gabriel\NF-e\10834\Saida\2024\Maio
+10835;MATOSO COMERCIO LTDA;C:\Troca de arquivos Unico\TI\Gabriel\NF-e\10835\Saida\2024\Maio
+10837;R831 COMERCIO E DISTRIBUICAO LTDA;C:\Troca de arquivos Unico\TI\Gabriel
+10839;X COM ECOMMERCE E NEGOCIOS DIGITAIS LTDA;C:\Troca de arquivos Unico\TI\Gabriel
+10840;SANTANA MODA CASA LTDA;C:\Troca de arquivos Unico\TI\Gabriel\NF-e\10840\Saida\2024\Maio
+10841;J VARIEDADE LTDA;C:\Troca de arquivos Unico\TI\Gabriel\NF-e\10842\Saida\2024\Maio
+10842;J. F. MIGUEL COSMETICOS E ALIMENTICIOS;C:\Troca de arquivos Unico\TI\Gabriel\NF-e\10842\Saida\2024\Maio
+10843;CAMILLA RODRIGUES ALMEIDA LTDA;C:\Troca de arquivos Unico\TI\Gabriel
+10844;MIQUELE GATTO RIBEIRO 11003256899;C:\Troca de arquivos Unico\TI\Gabriel
+10845;SAMURAI SERVICOS E COMERCIO DE AUTO PECAS LTDA;C:\Troca de arquivos Unico\TI\Gabriel\NF-e\10845\Saida\2024\Maio
+10846;EVOL COMERCIO DIGITAL LTDA;C:\Troca de arquivos Unico\TI\Gabriel\NF-e\10846\Saida\2024\Maio
+10847;EVOL COMERCIO DIGITAL LTDA;C:\Troca de arquivos Unico\TI\Gabriel\NF-e\10847\Saida\2024\Maio
+10850;MONTE CICLO JB LTDA;C:\Troca de arquivos Unico\TI\Gabriel\NF-e\10850\Saida\2024\Maio
+10852;J UNICA COMERCIO E DESIGN LTDA;C:\Troca de arquivos Unico\TI\Gabriel\NF-e\10852\Saida\2024\Maio
+10853;J UNICA COMERCIO E DESIGN LTDA;C:\Troca de arquivos Unico\TI\Gabriel\NF-e\10853\Saida\2024\Maio
+10854;HENRIQUE SOUZA GOMES;C:\Troca de arquivos Unico\TI\Gabriel\NF-e\10854\Saida\2024\Maio
+10856;PRINT INDUSTRIAL TEXTIL LTDA;C:\Troca de arquivos Unico\TI\Gabriel\NF-e\10856\Saida\2024\Maio
+10857;PRINT INDUSTRIAL TEXTIL LTDA;C:\Troca de arquivos Unico\TI\Gabriel\NF-e\10857\Saida\2024\Maio
+10859;PRO RACE MOTO STORE LTDA;C:\Troca de arquivos Unico\TI\Gabriel
+10860;SUPER COMPRA DO DIA COMERCIO DIGITAL LTDA;C:\Troca de arquivos Unico\TI\Gabriel
+20004;Wdl Comercio Saudavel e Magazine Ltda;C:\Troca de arquivos Unico\TI\Gabriel\NF-e\20004\Saida\2024\Maio
+20008;Cintia Garcia Mesquita Mendes Comercio;C:\Troca de arquivos Unico\TI\Gabriel\NF-e\20008\Saida\2024\Maio
+20010;P&C DISTRIBUIDORA DE AUTO PECAS LIMITADA;C:\Troca de arquivos Unico\TI\Gabriel\NF-e\20010\Saida\2024\Maio
+20013;30.595.671 NILSON DANTAS DE OLIVEIRA;C:\Troca de arquivos Unico\TI\Gabriel
+20016;JULIANO PEREIRA DE CARVALHO 32449189807;C:\Troca de arquivos Unico\TI\Gabriel\NF-e\20016\Saida\2024\Maio
+20017;ALL SERIES II COMERCIO DE SOM ACESSORIOS LTDA;C:\Troca de arquivos Unico\TI\Gabriel\NF-e\20017\Saida\2024\Maio
+20020;SHOPNEGOCIOS - PRODUTOS E ACESSORIOS PARA PISCINAS LTDA;C:\Troca de arquivos Unico\TI\Gabriel\NF-e\20020\Saida\2024\Maio
+20023;BENNU COMERCIO DE VESTUARIOS, CALCADOS E ACESSORIOS LTDA;C:\Troca de arquivos Unico\TI\Gabriel
+20024;MELHOR COMPRA R&V LTDA;C:\Troca de arquivos Unico\TI\Gabriel
+20025;TOP BUY VU LTDA;C:\Troca de arquivos Unico\TI\Gabriel\NF-e\20025\Saida\2024\Maio
+20030;AUTORIZADA PECAS LTDA;C:\Troca de arquivos Unico\TI\Gabriel
+20032;PRO RACE MOTO STORE LTDA;C:\Troca de arquivos Unico\TI\Gabriel\NF-e\20032\Saida\2024\Maio
+20033;FARIA COMERCIO LTDA;C:\Troca de arquivos Unico\TI\Gabriel
+20034;49.960.358 DANIELE DE OLIVEIRA FERREIRA;C:\Troca de arquivos Unico\TI\Gabriel
+20035;C&R COMERCIO DE MOTO PECAS, IMPORTACAO E EXPORTACAO LTDA;C:\Troca de arquivos Unico\TI\Gabriel
+20036;DOMA COMERCIO DE PECAS AUTOMOTIVAS LTDA;C:\Troca de arquivos Unico\TI\Gabriel
+20040;ABDA ELISA RIBEIRO BEZERRA - CARUARU;C:\Troca de arquivos Unico\TI\Gabriel\NF-e\20040\Saida\2024\Maio
+20041;ABDA ELISA RIBEIRO BEZERRA - CARUARU;C:\Troca de arquivos Unico\TI\Gabriel\NF-e\20041\Saida\2024\Maio
+20042;46.375.665 FERNANDA ARAUJO DE SOUZA;C:\Troca de arquivos Unico\TI\Gabriel
+20045;BRAVOX IMPORTS LTDA;C:\Troca de arquivos Unico\TI\Gabriel
+20047;JPG COMERCIO E VARIEDADES LTDA;C:\Troca de arquivos Unico\TI\Gabriel
+20048;GOLD SAND COMERCIAL LTDA.;C:\Troca de arquivos Unico\TI\Gabriel
+20049;ROCKET LIMA ECOMMERCE LTDA;C:\Troca de arquivos Unico\TI\Gabriel\NF-e\20049\Saida\2024\Maio
+20051;BABY CENTRAL LTDA;C:\Troca de arquivos Unico\TI\Gabriel\NF-e\20051\Saida\2024\Maio
+20054;SELLXPERT ECOMMERCE LTDA;C:\Troca de arquivos Unico\TI\Gabriel
+20055;ALBHA STORE MAGAZINE LTDA;C:\Troca de arquivos Unico\TI\Gabriel
+20056;ALBHA STORE MAGAZINE LTDA;C:\Troca de arquivos Unico\TI\Gabriel
+20057;ALBHA STORE MAGAZINE LTDA;C:\Troca de arquivos Unico\TI\Gabriel
+20059;COSMETICOS E PRODUTOS COMERCIO DE LUXO CEVELO LTDA;C:\Troca de arquivos Unico\TI\Gabriel\NF-e\20059\Saida\2024\Maio
+20060;STEEL FER COMERCIO DE FERRO E ACO LTDA;C:\Troca de arquivos Unico\TI\Gabriel
+20061;MARGARIDA MAKES LTDA.;C:\Troca de arquivos Unico\TI\Gabriel
+20062;MELIMAR CONFECCOES DE ROUPAS FEMININAS LTDA;C:\Troca de arquivos Unico\TI\Gabriel
+20063;MERCADOPECAS INDUSTRIA ATACADISTA IMP. E EXP. DE PECAS LTDA;C:\Troca de arquivos Unico\TI\Gabriel
+20065;ECOMMERCE DISTRIBUTION IMPORTACAO E EXPORTACAO LTDA;C:\Troca de arquivos Unico\TI\Gabriel
+20066;BRASPECAS IMP E EXP LTDA;C:\Troca de arquivos Unico\TI\Gabriel
+20068;INDUSTRIA DO ECOMMERCE IMP. E EXP. LTDA;C:\Troca de arquivos Unico\TI\Gabriel
+20069;BRASTANQUES INDUSTRIA DE TANQUES IMP E EXP LTDA;C:\Troca de arquivos Unico\TI\Gabriel
+20070;ENGLAND DISTRIBUTION IMP. E EXP. LTDA;C:\Troca de arquivos Unico\TI\Gabriel
+20074;COMERCIO DE COSMETICOS E PERFUMES IMPORTADOS DE LUXO ZAILO LTDA;C:\Troca de arquivos Unico\TI\Gabriel\NF-e\20074\Saida\2024\Maio
+20075;R9 DESIGN FUTON E-COMMERCE LTDA;C:\Troca de arquivos Unico\TI\Gabriel\NF-e\20075\Saida\2024\Maio
+20082;DOCE OPIUM PREMIUM NUTS LTDA;C:\Troca de arquivos Unico\TI\Gabriel
+20083;FOCCO ECOMMERCE LTDA;C:\Troca de arquivos Unico\TI\Gabriel

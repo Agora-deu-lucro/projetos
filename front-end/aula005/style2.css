@@ -1,0 +1,18 @@
+body {
+    height: 100vh;
+    background-color: aqua;
+    background-image: url('robo.jpg');
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: scroll;
+}
+
+main {
+    background-color: white;
+    width: 400px;
+    padding: 10px;
+    margin: auto;
+    border:1px solid blue ;
+    border-radius: 15px;
+}

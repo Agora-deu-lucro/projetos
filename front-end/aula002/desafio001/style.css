@@ -1,0 +1,25 @@
+body{
+    background-image: linear-gradient(to right, green, rgb(2, 75, 2));
+}
+
+main{
+    background-color: white;
+    min-width: 320px;
+    max-width: 800px;
+    padding: 20px;
+    margin: auto;
+    border-radius: 10px;
+    box-shadow: 5px 5px 15px rgb(0, 47, 0);
+}
+
+h1{
+    color: burlywood;
+}
+
+h2{
+    color: rgb(129, 107, 79);
+}
+
+p{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}

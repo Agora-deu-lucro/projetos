@@ -1,0 +1,24 @@
+em automatizar processos de numero e caminho da empresa.
+EU TENHO QUE DEIXAR ESSE PROCESSO PARA QUANDO A AUTOMAÇÃO ENTAR DENTOR DO SISTEMA
+E DEPOIS COLOCAR ESSE CODIGO PARA PRENCHER AUTOMATICO.
+
+
+
+ while not botao_ok_encontrado:
+        # Verifica se o botão OK está na tela
+        botao_ok = pyag.locateOnScreen('C:\\Users\\AGORA DEU LUCRO\\Downloads\\automacao\\testes gpt\\botao_de_ok_de_caixa_de_mensagen_de_notas.png', confidence=0.9)  # Ajuste o parâmetro de confiança conforme necessário
+        if botao_ok:
+            print("Botão OK encontrado, prosseguindo com o processo.")
+            botao_ok_encontrado = True
+            pyag.click(botao_ok)  # Clica no botão OK para continuar
+        else:
+            print("Botão OK não encontrado, aguardando...")
+            time.sleep(60)  # Espera 60 segundos antes de verificar novamente
+
+
+
+pyag.click('x=965, y=671') #local de clilcar quando for na opção de sair da importação
+
+pyag.click('x=1883, y=234') # fechar aba de importação quando todas ja foram feitas
+
+4;ISA CARITA BRAND - COMERCIO DE ROUPAS LTDA;C:\Troca de arquivos Unico\TI\Gabriel
